@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1725391440186
+  login: 1725391380778
+money: '0'
+last-account-name: Prepare_For_Pain
+logoutlocation:
+  world: c9b8c0f5-8d3b-446d-8b28-d5510c38837e
+  world-name: world
+  x: 696.1203691352114
+  y: 71.0
+  z: 381.69999998807907
+  yaw: -54.45000457763672
+  pitch: 10.80000114440918

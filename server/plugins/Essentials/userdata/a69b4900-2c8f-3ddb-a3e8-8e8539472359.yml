@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1725473919722
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1726252802648
+  login: 1726252795969
+money: '0'
+last-account-name: FAKER_37
+logoutlocation:
+  world: c9b8c0f5-8d3b-446d-8b28-d5510c38837e
+  world-name: world
+  x: 587.6747021490899
+  y: 66.0
+  z: 258.72466679505067
+  yaw: 6.900054931640625
+  pitch: -4.950007915496826
+lastlocation:
+  world: c9b8c0f5-8d3b-446d-8b28-d5510c38837e
+  world-name: world
+  x: 724.2024939681904
+  y: 79.0439532606826
+  z: 371.8677627843902
+  yaw: 221.3999786376953
+  pitch: 27.750009536743164
+homes:
+  home:
+    world: c9b8c0f5-8d3b-446d-8b28-d5510c38837e
+    world-name: world
+    x: 902.6250182848461
+    y: 104.0
+    z: 363.8387496844216
+    yaw: -170.50439453125
+    pitch: 24.90001106262207

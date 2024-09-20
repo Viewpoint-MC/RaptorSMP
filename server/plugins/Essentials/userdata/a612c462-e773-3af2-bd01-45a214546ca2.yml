@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1726684702132
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1726684941394
+  login: 1726684609508
+money: '0'
+last-account-name: gustavo
+homes:
+  home:
+    world: c9b8c0f5-8d3b-446d-8b28-d5510c38837e
+    world-name: world
+    x: 983.7051599016341
+    y: 80.0
+    z: 341.05436670518463
+    yaw: 283.800048828125
+    pitch: 26.399993896484375
+lastlocation:
+  world: c9b8c0f5-8d3b-446d-8b28-d5510c38837e
+  world-name: world
+  x: 586.7943815988073
+  y: 66.0
+  z: 261.69999998807907
+  yaw: 66.90000915527344
+  pitch: -33.150001525878906
+logoutlocation:
+  world: c9b8c0f5-8d3b-446d-8b28-d5510c38837e
+  world-name: world
+  x: 983.4083568913242
+  y: 80.0
+  z: 340.29657347821166
+  yaw: 333.00006103515625
+  pitch: -1.2000086307525635

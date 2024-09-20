@@ -1,0 +1,9 @@
+KICK_ON_SWEAR: false
+KICK_MESSAGE: '&4Swearing is not allowed on this server!'
+EXPLOSION_ON_SWEAR: false
+REPLACE_MESSAGE: false
+BEEP_WORD: true
+COMMAND_ON_SWEAR: warn <player>
+NEW_MESSAGE: I hope you have a great day!
+list:
+- kys

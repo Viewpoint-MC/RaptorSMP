@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1726589287157
+  login: 1726587724454
+  kits:
+    tools: 1726588728356
+money: '0'
+last-account-name: SmoreKat
+lastlocation:
+  world: c9b8c0f5-8d3b-446d-8b28-d5510c38837e
+  world-name: world
+  x: 470.30000001192093
+  y: 72.0
+  z: 423.615770954897
+  yaw: -248.3999786376953
+  pitch: -46.500003814697266
+logoutlocation:
+  world: c9b8c0f5-8d3b-446d-8b28-d5510c38837e
+  world-name: world
+  x: 450.8983952507237
+  y: 70.0
+  z: 385.47717854567185
+  yaw: 199.6507568359375
+  pitch: -4.500008583068848

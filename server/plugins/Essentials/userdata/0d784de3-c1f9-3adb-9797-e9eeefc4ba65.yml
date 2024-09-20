@@ -1,0 +1,43 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1725567943465
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1725575359079
+  login: 1725575313385
+  kits:
+    tools: 1725472085383
+money: '0'
+last-account-name: Scrappy_420
+lastlocation:
+  world: c9b8c0f5-8d3b-446d-8b28-d5510c38837e
+  world-name: world
+  x: 770.1967983447863
+  y: 79.0
+  z: -205.9241235032268
+  yaw: 10.249481201171875
+  pitch: 4.173238754272461
+logoutlocation:
+  world: c9b8c0f5-8d3b-446d-8b28-d5510c38837e
+  world-name: world
+  x: 587.5261402955304
+  y: 66.0
+  z: 260.8336914049792
+  yaw: -311.1136779785156
+  pitch: 17.1641845703125
+nickname: logan
+past-usernames:
+- scrappy_420

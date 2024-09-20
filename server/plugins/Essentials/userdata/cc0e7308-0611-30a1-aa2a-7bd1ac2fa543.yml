@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1726681074616
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1726681192955
+  login: 1726680879318
+  kits:
+    tools: 1726511544338
+money: '0'
+last-account-name: bbodrizzy
+lastlocation:
+  world: c9b8c0f5-8d3b-446d-8b28-d5510c38837e
+  world-name: world
+  x: 606.4174536753333
+  y: 12.0
+  z: 602.8073125430528
+  yaw: -1.0501405000686646
+  pitch: 14.399991989135742
+homes:
+  home:
+    world: c9b8c0f5-8d3b-446d-8b28-d5510c38837e
+    world-name: world
+    x: 606.333540066836
+    y: 12.0
+    z: 594.7207241918317
+    yaw: -0.300140380859375
+    pitch: 19.649991989135742
+logoutlocation:
+  world: c9b8c0f5-8d3b-446d-8b28-d5510c38837e
+  world-name: world
+  x: 875.6585364255059
+  y: 76.0
+  z: 511.8538259795165
+  yaw: -77.55001068115234
+  pitch: 32.399993896484375

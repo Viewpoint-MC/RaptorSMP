@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1726600042170
+  login: 1726599958161
+money: '0'
+last-account-name: The_Rad10_Dem0n_
+logoutlocation:
+  world: c9b8c0f5-8d3b-446d-8b28-d5510c38837e
+  world-name: world
+  x: 590.5
+  y: 67.0
+  z: 257.5
+  yaw: 24.000001907348633
+  pitch: 15.900001525878906
+lastlocation:
+  world: c9b8c0f5-8d3b-446d-8b28-d5510c38837e
+  world-name: world
+  x: 556.3607628370901
+  y: 64.0
+  z: 235.51409250075744
+  yaw: -354.75006103515625
+  pitch: 63.14999771118164

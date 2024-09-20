@@ -1,0 +1,22 @@
+# SuperVanish v6.2.20 - Data file
+InvisiblePlayers:
+- 3d432e80-5c96-334b-ba5b-0f7f7f8c836c
+- 16f88eb5-1ea5-3b0d-b891-c40d1e8daa89
+- 52a5fa3e-09a4-300c-9966-dc057dc33a0f
+- 1df23387-2328-3055-9acd-598599707cd7
+PlayerData:
+  52a5fa3e-09a4-300c-9966-dc057dc33a0f:
+    information:
+      name: root
+  a69b4900-2c8f-3ddb-a3e8-8e8539472359:
+    information:
+      name: FAKER_37
+  3d432e80-5c96-334b-ba5b-0f7f7f8c836c:
+    information:
+      name: BlueUtahR_aptor
+  1df23387-2328-3055-9acd-598599707cd7:
+    information:
+      name: scrappy_420
+  16f88eb5-1ea5-3b0d-b891-c40d1e8daa89:
+    information:
+      name: OrfanAnhilater

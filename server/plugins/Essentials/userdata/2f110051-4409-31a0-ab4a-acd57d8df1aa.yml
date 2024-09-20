@@ -1,0 +1,32 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1726170124344
+  login: 1726170018251
+  kits:
+    tools: 1726170101349
+money: '0'
+last-account-name: OrfanAnihilator
+logoutlocation:
+  world: c9b8c0f5-8d3b-446d-8b28-d5510c38837e
+  world-name: world
+  x: 618.05650316212
+  y: 65.0
+  z: 258.979834100701
+  yaw: 271.0500183105469
+  pitch: 21.150001525878906

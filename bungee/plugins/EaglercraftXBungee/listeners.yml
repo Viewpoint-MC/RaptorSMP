@@ -10,12 +10,12 @@ listener_01:
   redirect_legacy_clients_to: 'null'
   server_icon: server-icon.png
   server_motd:
-  - '&6An EaglercraftX server'
+  - '&aWelcome to the &2Raptor SMP&a --- have fun!'
   allow_motd: true
   allow_query: true
   request_motd_cache:
     cache_ttl: 7200
-    online_server_list_animation: false
+    online_server_list_animation: true
     online_server_list_results: true
     online_server_list_trending: true
     online_server_list_portfolios: false
@@ -37,7 +37,7 @@ listener_01:
       - '127.*'
       - '0:0:0:0:0:0:0:1'
     login:
-      enable: false
+      enable: true
       period: 50
       limit: 5
       limit_lockout: 10
@@ -46,7 +46,7 @@ listener_01:
       - '127.*'
       - '0:0:0:0:0:0:0:1'
     motd:
-      enable: false
+      enable: true
       period: 30
       limit: 5
       limit_lockout: 15

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1725474036058
+  login: 1725473778855
+money: '0'
+last-account-name: premeumthrone45_
+lastlocation:
+  world: c9b8c0f5-8d3b-446d-8b28-d5510c38837e
+  world-name: world
+  x: 601.6999999880791
+  y: 65.0
+  z: 215.34127478143975
+  yaw: 178.6500244140625
+  pitch: -48.0000114440918
+logoutlocation:
+  world: c9b8c0f5-8d3b-446d-8b28-d5510c38837e
+  world-name: world
+  x: 605.604407392073
+  y: 61.0
+  z: 155.5062263304931
+  yaw: -116.85001373291016
+  pitch: -90.0

@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1726255434205
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1726255506199
+  login: 1726255413773
+  kits:
+    tools: 1726157306333
+money: '0'
+last-account-name: TheRealOneBonkus
+lastlocation:
+  world: c9b8c0f5-8d3b-446d-8b28-d5510c38837e
+  world-name: world
+  x: 590.5
+  y: 67.0
+  z: 257.5
+  yaw: -3.1500003337860107
+  pitch: 11.40000057220459
+logoutlocation:
+  world: c9b8c0f5-8d3b-446d-8b28-d5510c38837e
+  world-name: world
+  x: 745.7569364302323
+  y: 72.0
+  z: 405.2227622833192
+  yaw: 297.727783203125
+  pitch: 3.899991273880005

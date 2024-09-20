@@ -1,0 +1,50 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1726600051550
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1726772358028
+  login: 1726772245863
+  kits:
+    tools: 1726259756278
+money: '0'
+last-account-name: Swagerz1640
+logoutlocation:
+  world: c9b8c0f5-8d3b-446d-8b28-d5510c38837e
+  world-name: world
+  x: 379.69999998807907
+  y: 23.0
+  z: 421.3134205945403
+  yaw: 357.3003234863281
+  pitch: 20.2499942779541
+lastlocation:
+  world: c9b8c0f5-8d3b-446d-8b28-d5510c38837e
+  world-name: world
+  x: 989.3000000119209
+  y: 78.0
+  z: 359.69999998807907
+  yaw: -135.00003051757812
+  pitch: 6.749992847442627
+homes:
+  home:
+    world: c9b8c0f5-8d3b-446d-8b28-d5510c38837e
+    world-name: world
+    x: 378.9971252457901
+    y: 23.0
+    z: 419.1857400963599
+    yaw: 87.15029907226562
+    pitch: 18.449993133544922
+nickname: ALL_knowing_cow

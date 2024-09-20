@@ -1,0 +1,53 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1726773913709
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1726773327157
+  login: 1726773322871
+  kits:
+    dtools: 1726511264347
+    notch: 1726587852761
+money: '0'
+last-account-name: OrfanAnhilater
+logoutlocation:
+  world: c9b8c0f5-8d3b-446d-8b28-d5510c38837e
+  world-name: world
+  x: 590.5
+  y: 67.0
+  z: 257.5
+  yaw: 9.914732933044434
+  pitch: 50.70298385620117
+lastlocation:
+  world: c9b8c0f5-8d3b-446d-8b28-d5510c38837e
+  world-name: world
+  x: 130.18673957436005
+  y: 13.0
+  z: 374.69999998807907
+  yaw: -93.81526184082031
+  pitch: 33.625282287597656
+homes:
+  home:
+    world: c9b8c0f5-8d3b-446d-8b28-d5510c38837e
+    world-name: world
+    x: 566.9998332222889
+    y: 80.74783595184003
+    z: 290.0796486711218
+    yaw: 64.65011596679688
+    pitch: 39.60000228881836
+powertools:
+  wood_spade:
+  - lightning

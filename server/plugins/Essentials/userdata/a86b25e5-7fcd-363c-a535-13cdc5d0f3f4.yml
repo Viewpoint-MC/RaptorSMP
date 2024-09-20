@@ -1,0 +1,41 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1726598647721
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1726774603423
+  login: 1726774478558
+  kits:
+    tools: 1726582522352
+money: '0'
+last-account-name: Sflyin
+nickname: Shane
+lastlocation:
+  world: c9b8c0f5-8d3b-446d-8b28-d5510c38837e
+  world-name: world
+  x: 268.9869032682443
+  y: 10.0
+  z: 357.30000001192093
+  yaw: 272.85009765625
+  pitch: 43.64999771118164
+logoutlocation:
+  world: c9b8c0f5-8d3b-446d-8b28-d5510c38837e
+  world-name: world
+  x: -24.10573280193057
+  y: 17.0
+  z: 347.3988153174705
+  yaw: 194.8501739501953
+  pitch: 5.249992370605469

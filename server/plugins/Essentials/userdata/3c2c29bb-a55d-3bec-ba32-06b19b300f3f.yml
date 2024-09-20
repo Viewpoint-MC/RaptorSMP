@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1726582529250
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1726582647372
+  login: 1726582508351
+  kits:
+    tools: 1726002049823
+money: '0'
+last-account-name: McLarenSENNA
+lastlocation:
+  world: c9b8c0f5-8d3b-446d-8b28-d5510c38837e
+  world-name: world
+  x: 406.6202731778739
+  y: 18.0
+  z: 451.2481846959357
+  yaw: 3.750291585922241
+  pitch: 31.4999942779541
+homes:
+  home:
+    world: c9b8c0f5-8d3b-446d-8b28-d5510c38837e
+    world-name: world
+    x: 379.1483991735818
+    y: 23.0
+    z: 421.69999998807907
+    yaw: 122.10026550292969
+    pitch: 55.19999313354492
+logoutlocation:
+  world: c9b8c0f5-8d3b-446d-8b28-d5510c38837e
+  world-name: world
+  x: 376.8850406091039
+  y: 23.0
+  z: 419.52384671165527
+  yaw: -223.94976806640625
+  pitch: 1.6499882936477661

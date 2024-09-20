@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1725650694623
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1725650703726
+  login: 1725649181240
+  kits:
+    tools: 1725473778653
+money: '0'
+last-account-name: Spacekid
+lastlocation:
+  world: c9b8c0f5-8d3b-446d-8b28-d5510c38837e
+  world-name: world
+  x: 696.8071183733301
+  y: 65.0
+  z: 340.5015830634019
+  yaw: -42.60000228881836
+  pitch: 39.300010681152344
+homes:
+  home:
+    world: c9b8c0f5-8d3b-446d-8b28-d5510c38837e
+    world-name: world
+    x: 905.125064822858
+    y: 85.0
+    z: 332.6968970770459
+    yaw: 164.0999755859375
+    pitch: 81.44999694824219
+logoutlocation:
+  world: c9b8c0f5-8d3b-446d-8b28-d5510c38837e
+  world-name: world
+  x: 588.8881867025341
+  y: 67.0
+  z: 268.0760766868979
+  yaw: 60.45000457763672
+  pitch: 79.65000915527344
